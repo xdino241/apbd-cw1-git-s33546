@@ -25,3 +25,5 @@ static int CalculateMax(int[] numbers)
 {
     return numbers.Max();
 }
+
+Console.WriteLine("Ending task 6");
