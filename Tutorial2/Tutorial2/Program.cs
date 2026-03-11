@@ -2,3 +2,4 @@
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Dodatek1");
+Console.WriteLine("Dodatek2");
