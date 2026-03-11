@@ -30,3 +30,5 @@ static int CalculateMin(int[] numbers)
 {
     return numbers.Min();
 }
+
+Console.WriteLine("Min from this testTab is: " + CalculateMin(testTab));
