@@ -32,5 +32,3 @@ static int CalculateMin(int[] numbers)
 }
 
 Console.WriteLine("Min from this testTab is: " + CalculateMin(testTab));
-
-Console.WriteLine("Ending task 6");
