@@ -33,4 +33,4 @@ static int CalculateMin(int[] numbers)
 
 Console.WriteLine("Min from this testTab is: " + CalculateMin(testTab));
 
-Console.WriteLine("Starting task 7");
+Console.WriteLine("Starting task 67");
