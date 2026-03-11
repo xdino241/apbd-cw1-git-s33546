@@ -15,3 +15,6 @@ static double CalculateAverage(int[] numbers)
     }
     return average / numbers.Length;
 }
+
+int[] testTab = {2,3,54,6,2};
+Console.WriteLine("Average from this testTab is: " + CalculateAverage(testTab));
