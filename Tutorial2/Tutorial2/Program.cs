@@ -18,3 +18,5 @@ static double CalculateAverage(int[] numbers)
 
 int[] testTab = {2,3,54,6,2};
 Console.WriteLine("Average from this testTab is: " + CalculateAverage(testTab));
+
+Console.WriteLine("Starting task 5");
